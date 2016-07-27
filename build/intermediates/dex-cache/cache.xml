@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/scrok/MeuAplicativoFavorito/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9d1b3fd783894427f91f7bc41346b1b8fe52a334">
+        <dex dex="/Users/scrok/MeuAplicativoFavorito/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_75b1087467c6abfad5597bd591e12054f12038d5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/scrok/MeuAplicativoFavorito/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/scrok/MeuAplicativoFavorito/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_3ae023677828f2c52db170278f8749ce0456faf5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/scrok/MeuAplicativoFavorito/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/scrok/MeuAplicativoFavorito/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_3d8f345c7f2e1a57da1f82b322ed51caf89d49d9/classes.dex" />
+    </item>
+
+</items>

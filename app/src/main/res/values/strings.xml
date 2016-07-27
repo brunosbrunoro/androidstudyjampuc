@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meu Aplicativo Favorito</string>
+    <string name="mensagem_edittext">Escreva o nome de um aplicativo</string>
+    <string name="title_activity_dados_aplicativo">DadosAplicativoActivity</string>
+</resources>
